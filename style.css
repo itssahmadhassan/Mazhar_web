@@ -1,0 +1,121 @@
+
+
+body {
+	
+}
+
+.navbar, .footer{
+	background-color:rgba(78, 172, 223, 1);
+
+}
+
+.person{
+	width:140px;
+	height:140px;
+
+}
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	top-margin:0;
+	height:auto;
+}
+.card p{
+	text-decoration: none;
+	font-size:17px;
+	margin:-8px;
+}
+.ser {
+	text-decoration: none;
+	 style="color:black; 
+	 text-decoration:none;"
+}
+
+.card .card-title{
+	
+	margin-top:-15px;
+}
+.card img{
+	margin-top:5%;
+
+}
+.card a{
+	
+    style="color:black;
+	 text-decoration:none;"
+}
+
+.row1{
+
+	position: relative;
+	top: -70px;
+
+}
+.row2{
+
+	position: relative;
+	top: 70px;
+
+}
+.p_div{
+
+	background-color:white;
+
+
+}
+.p_div2{
+
+	background-color:white;
+	position: relative;
+	top: 70px;
+
+}
+
+  <!-- /////////   for icons   ////// -->
+  
+@import url(https://fonts.googleapis.com/css?family=Calibri:400,300,700);
+
+
+
+.social-buttons {
+    /* margin-top: 200px */
+}
+
+.social-buttons button {
+    margin-right: 10px
+}
+
+.neo-button {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 11px;
+    background: linear-gradient(145deg, #5bc6ff, #4da7db);
+    box-shadow: 6px 6px 13px #489dcf, -6px -6px 13px #62d5ff
+}
+
+.neo-button:hover {
+    width: 70px;
+    height: 70px;
+    border: none;
+    outline: none;
+    border-radius: 11px;
+    background: linear-gradient(145deg, #4da7db, #5bc6ff);
+    box-shadow: inset 6px 6px 13px #489dcf, inset -6px -6px 13px #62d5ff
+}
+
+.social-buttons a{
+	
+	 text-decoration: none;
+	
+}
+
+
+
+
+
+
+
+
+
